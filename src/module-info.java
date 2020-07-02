@@ -1,0 +1,3 @@
+module parkingSystem {
+	requires junit;
+}
