@@ -15,8 +15,7 @@ nearest to the entry.
 At the exit the customer returns the ticket which then marks the slot
 they were using as being available.
 
-Due to government regulation, the system should provide me with the ability to find
-out:
+Due to government regulation, the system provides an ability to find out:
 
 ● Registration numbers of all cars of a particular colour.
 
